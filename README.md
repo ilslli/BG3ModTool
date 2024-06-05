@@ -8,7 +8,7 @@
 > [!WARNING]
 > **这个程序没有解包.pak文件和转译.loca文件的能力，请下载[LSLib](https://github.com/Norbyte/lslib/releases)处理文件！**
 > 
-如果我有时间我会尝试让它实现这些功能的 :confused: ~~这可能会在很久以后~~
+如果我有时间我会尝试让它实现这些功能的 :confused: ~~这可能会在很久以后...~~
 
 # 介绍
 让我来介绍一下我的程序
